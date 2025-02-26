@@ -9,7 +9,7 @@
     <codigo>92</codigo>
     <cantidad>10</cantidad>
     <articulo>Radio-Casette</articulo>
-    <seccion>Electrónica</seccion>
+    <seccion>Electronica</seccion>
     <marca>Sony</marca>
     <modelo>MKJ-800</modelo>
     <caracteristicas>
@@ -17,7 +17,7 @@
       <linea>Dolby-sorround</linea>
       <linea>Doble pletina</linea>
       <linea>Ecualizador de cinco bandas</linea>
-      <linea>Garantía de 9 meses.</linea>
+      <linea>Garantia de 9 meses.</linea>
     </caracteristicas>
     <precio moneda="euro">90</precio>
   </producto>
@@ -25,11 +25,11 @@
     <codigo>103</codigo>
     <cantidad>50</cantidad>
     <articulo>Reloj Cocina</articulo>
-    <seccion>Electrónica</seccion>
+    <seccion>Electronica</seccion>
     <marca>Kenwood</marca>
     <modelo>Blue ONE</modelo>
     <caracteristicas>
-      <linea>Varios diseños</linea>
+      <linea>Varios disenios</linea>
     </caracteristicas>
     <opciones nombre="color" tipo="unica">
       <opcion valor="rojo"/>
@@ -40,23 +40,23 @@
       <opcion valor="cuadrado"/>
       <opcion valor="triangular"/>
       <opcion valor="redondo"/>
-      <linea>Garantía de 6 meses.</linea>
+      <linea>Garantia de 6 meses.</linea>
     </opciones>
     <precio moneda="euro">12</precio>
   </producto>
   <producto>
     <codigo>1312</codigo>
     <cantidad>3</cantidad>
-    <articulo>Sofá</articulo>
+    <articulo>Sofa</articulo>
     <seccion>Muebles</seccion>
     <marca/>
-    <modelo>Almería</modelo>
+    <modelo>Almeria</modelo>
     <caracteristicas>
       <linea>Acabado en microfibra</linea>
-      <linea>Reposacabezas móvil</linea>
+      <linea>Reposacabezas movil</linea>
       <linea>Tres plazas</linea>
       <linea>Regalo de cojines a juego</linea>
-      <linea>Garantía de 1 año.</linea>
+      <linea>Garantia de 1 anio.</linea>
     </caracteristicas>
     <opciones nombre="color" tipo="unica">
       <opcion valor="verde"/>
@@ -70,14 +70,14 @@
     <codigo>12</codigo>
     <cantidad>1</cantidad>
     <articulo>Impresora</articulo>
-    <seccion>Informática</seccion>
+    <seccion>Informatica</seccion>
     <marca>Canon</marca>
     <modelo>BJC-4200</modelo>
     <caracteristicas>
-      <linea>Impresión a color</linea>
+      <linea>Impresion a color</linea>
       <linea>10 ppm en B/N, 6 ppm en color</linea>
-      <linea>Alimentación automática</linea>
-      <linea>Garantía de 1 año.</linea>
+      <linea>Alimentacion automatica</linea>
+      <linea>Garantia de 1 anio.</linea>
       <linea>
         <url etiqueta="Fabricante: ">http://www.canon.es</url>
       </linea>
@@ -93,18 +93,18 @@
   <producto>
     <codigo>1313</codigo>
     <cantidad>6</cantidad>
-    <articulo>Sofá</articulo>
+    <articulo>Sofa</articulo>
     <seccion>Muebles</seccion>
     <marca/>
-    <modelo>Málaga</modelo>
+    <modelo>Malaga</modelo>
     <caracteristicas>
       <linea>Acabado en cuero</linea>
       <linea>Dos+Tres plazas</linea>
-      <linea>Garantía de 3 año.</linea>
+      <linea>Garantia de 3 anios.</linea>
     </caracteristicas>
     <opciones nombre="color" tipo="unica">
       <opcion valor="negro"/>
-      <opcion valor="marrón"/>
+      <opcion valor="marron"/>
     </opciones>
     <opciones nombre="acabado" tipo="si_no">
       <opcion valor="Brillo"/>
@@ -115,17 +115,17 @@
     <codigo>72</codigo>
     <cantidad>1</cantidad>
     <articulo>Televisor</articulo>
-    <seccion>Electrónica</seccion>
+    <seccion>Electronica</seccion>
     <marca>Daewoo</marca>
     <modelo>DW SplitFire</modelo>
     <caracteristicas>
       <linea>28"</linea>
       <linea>Teletexto</linea>
       <linea>99 canales</linea>
-      <linea>Sonido estéreo</linea>
+      <linea>Sonido estereo</linea>
       <linea>Euroconector</linea>
       <linea>Altavoces laterales</linea>
-      <linea>Garantía de 18 meses.</linea>
+      <linea>Garantia de 18 meses.</linea>
       <linea>
         <url etiqueta="Fabricante: ">http://www.daewoo.com</url>
       </linea>
@@ -136,16 +136,16 @@
     <codigo>271</codigo>
     <cantidad>4</cantidad>
     <articulo>Televisor</articulo>
-    <seccion>Electrónica</seccion>
+    <seccion>Electronica</seccion>
     <marca>Sanyo</marca>
     <modelo>870/1</modelo>
     <caracteristicas>
       <linea>25"</linea>
       <linea>Teletexto</linea>
       <linea>199 canales</linea>
-      <linea>Sonido estéreo</linea>
+      <linea>Sonido estereo</linea>
       <linea>Euroconector</linea>
-      <linea>Garantía de 2 años.</linea>
+      <linea>Garantia de 2 anios.</linea>
       <linea>
         <url etiqueta="Fabricante: ">http://www.sanyo.es</url>
       </linea>
@@ -156,14 +156,14 @@
     <codigo>754</codigo>
     <cantidad>2</cantidad>
     <articulo>Monitor</articulo>
-    <seccion>Informática</seccion>
+    <seccion>Informatica</seccion>
     <marca>LG</marca>
     <modelo>S4VR</modelo>
     <caracteristicas>
       <linea>17"</linea>
-      <linea>Resolución 1600x1200</linea>
+      <linea>Resolucion 1600x1200</linea>
       <linea>Frecuencia refresco: 35-120 MHZ</linea>
-      <linea>Garantía de 3 años.</linea>
+      <linea>Garantia de 3 anios.</linea>
       <linea>
         <url etiqueta="Fabricante: ">http://www.lg.de</url>
       </linea>
@@ -174,7 +174,7 @@
       <opcion valor="negro"/>
       <opcion valor="gris"/>
     </opciones>
-    <opciones nombre="Incluir fijador cámara" tipo="si_no">
+    <opciones nombre="Incluir fijador camara" tipo="si_no">
       <opcion valor="Si"/>
     </opciones>
     <precio moneda="peseta">67000</precio>
